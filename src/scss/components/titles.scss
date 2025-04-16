@@ -1,16 +1,17 @@
 .text-block {
-  font-family: 'Courier New', Courier, monospace;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .title {
+  font-family: 'Courier New', Courier, monospace;
   font-size: 24px;
   margin: 0;
   padding: 10px;
 }
 .subtitle {
+  font-family: 'Courier New', Courier, monospace;
   margin: 0;
   padding: 10px;
 }
